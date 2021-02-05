@@ -100,3 +100,44 @@ grid-template-columns: auto auto;
 .odstep4{
     height: 20px;
 }
+
+.bialy{
+    color: white;
+}
+
+.zolty{
+    color: yellow;
+}
+
+
+.bialy2{
+    color: white;
+    font-size: 18px;
+}
+
+.zolty2{
+    color: yellow;
+    font-size: 18px;
+}
+
+.bialy3{
+    color: white;
+    font-size: 20px;
+}
+
+.zolty3{
+    color: yellow;
+    font-size: 20px;
+}
+
+.marginleft{
+    margin-left: 29%;
+}
+
+.przerwa4{
+    height: 20px;
+}
+
+.przerwa5{
+    height: 30px;
+}
