@@ -30,9 +30,9 @@ body{
 }
 
 .border2{
-    border: 1px rgb(41, 40, 40) solid;
+    border: 1px  rgb(20, 20, 20)solid;
     transform: rotate(90deg);
-    width: 1200px;
+    width: 1220px;
 
   
 }
@@ -80,9 +80,23 @@ grid-template-columns: auto auto;
 
 .zmysla3{
     color: white;
-    
+    margin-right: 40%;
 }
 
 .odstep2{
     height: 230px;
+}
+
+.border3{
+    border: 2px red solid;
+    transform: rotate(90deg);
+    width: 10px;
+}
+
+.odstep3{
+    height: 130px;
+}
+
+.odstep4{
+    height: 20px;
 }
