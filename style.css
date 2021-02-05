@@ -1,0 +1,88 @@
+.jan{
+    color: rgb(141, 141, 48);
+}
+
+body{
+    background-color: rgb(20, 20, 20);
+    font-family: 'Nunito', sans-serif;
+}
+
+.zmysla{
+    color: white;
+}
+
+.zmysla2{
+    color: rgb(189, 189, 54);
+    font-size: 20px;
+   
+}
+
+.podkreslnik{
+    border: 1px rgb(189, 189, 54) solid;
+    max-width: 90%;
+    width: 100%;
+    margin-left: 5.2%;
+}
+
+.jpgrwd{
+    width: 100%;
+    height: auto;
+}
+
+.border2{
+    border: 1px rgb(41, 40, 40) solid;
+    transform: rotate(90deg);
+    width: 1200px;
+
+  
+}
+
+.orange-button{
+    background-color: orange;
+}
+
+.szary{
+    background-color: rgb(92, 91, 91);
+}
+
+.grid2{
+display: grid;
+grid-template-columns: auto auto;
+}
+
+.blueblue{
+    color: cornflowerblue;
+    font-size: 19px;
+}
+
+.borderbialy{
+    border: 1px white solid;
+    width: 100%;
+    height: auto;
+}
+
+.okragle{
+   
+	
+	border-radius: 150px;
+	
+
+}
+
+.odstep{
+    height: 20px;
+}
+
+.logox{
+    font-size: 27px;
+    color: rgb(141, 141, 48);
+}
+
+.zmysla3{
+    color: white;
+    
+}
+
+.odstep2{
+    height: 230px;
+}
